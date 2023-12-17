@@ -1,0 +1,99 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`services 1`] = `
+<section
+  className="sc-gsTDqH cYbAvo"
+>
+  <div
+    className="title"
+  >
+    <h1
+      className="heading"
+    >
+      Explore Our Services
+    </h1>
+    <p
+      className="paragraph"
+    >
+      We are self-service data analytics software that lets you create visually.
+    </p>
+  </div>
+  <div
+    className="cards"
+  >
+    <div
+      className="card"
+    >
+      <img
+        src="/src/assets/img/services/app.svg"
+      />
+      <p
+        className="heading"
+      >
+        App Development
+      </p>
+      <p
+        className="paragraph"
+      >
+        ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod metus vel sem bibendum, a bibendum justo tempor. Sed vel lectus
+      </p>
+    </div>
+    <div
+      className="card"
+    >
+      <img
+        src="/src/assets/img/services/web.svg"
+      />
+      <p
+        className="heading"
+      >
+        Web Designing
+      </p>
+      <p
+        className="paragraph"
+      >
+        ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod metus vel sem bibendum, a bibendum justo tempor. Sed vel lectus
+      </p>
+    </div>
+    <div
+      className="card"
+    >
+      <img
+        src="/src/assets/img/services/graphic.svg"
+      />
+      <p
+        className="heading"
+      >
+        Graphic Designing
+      </p>
+      <p
+        className="paragraph"
+      >
+        ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod metus vel sem bibendum, a bibendum justo tempor. Sed vel lectus
+      </p>
+    </div>
+    <div
+      className="card"
+    >
+      <img
+        src="/src/assets/img/services/digital.svg"
+      />
+      <p
+        className="heading"
+      >
+        Digital Marketing
+      </p>
+      <p
+        className="paragraph"
+      >
+        ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod metus vel sem bibendum, a bibendum justo tempor. Sed vel lectus
+      </p>
+    </div>
+  </div>
+  <button
+    className="sc-bdfCDU eTpbqK"
+  >
+    Learn More
+  </button>
+</section>
+`;
